@@ -21,7 +21,7 @@ get your device display width &amp; height any where
     }
     }
     
-2-use this :
+2-use this any where:
 
     int with = displayWidth(activity);
     int height = displayHeight(activity);
